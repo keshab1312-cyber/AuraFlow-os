@@ -1,0 +1,20 @@
+{
+  "name": "AuraFlow OS — Mind & Body Optimization Sanctuary",
+  "short_name": "AuraFlow OS",
+  "description": "100% Offline Procedural Solfeggio, 7-Chakra Tibetan Singing Bowls, Formant Bija Chants & Breathwork Sanctuary.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0F1E",
+  "theme_color": "#0A0F1E",
+  "categories": ["health", "lifestyle", "music"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
